@@ -10,7 +10,3 @@ dist/
 .env
 
 # Ignorar arquivos de saída
-*.js
-*.js.map
-*.ts
-*.ts.map
