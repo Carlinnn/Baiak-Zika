@@ -1,0 +1,16 @@
+# Ignorar arquivos TypeScript e JavaScript compilados
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Ignorar arquivos temporários e de log
+*.log
+
+# Ignorar arquivos de configuração do ambiente
+.env
+
+# Ignorar arquivos de saída
+*.js
+*.js.map
+*.ts
+*.ts.map
